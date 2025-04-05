@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184743957516",
+    "project_id": "shop-569f0",
+    "storage_bucket": "shop-569f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184743957516:android:00470c19f77f4e0aac4a29",
+        "android_client_info": {
+          "package_name": "com.example.lishop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMg6fyMHlZLPgjRkVVrhui3esAQ00RhPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

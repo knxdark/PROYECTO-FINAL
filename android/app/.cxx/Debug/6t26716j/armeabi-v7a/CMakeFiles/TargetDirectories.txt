@@ -1,0 +1,2 @@
+C:/Users/yohen/OneDrive/Desktop/shop-main/android/app/.cxx/Debug/6t26716j/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/yohen/OneDrive/Desktop/shop-main/android/app/.cxx/Debug/6t26716j/armeabi-v7a/CMakeFiles/rebuild_cache.dir
